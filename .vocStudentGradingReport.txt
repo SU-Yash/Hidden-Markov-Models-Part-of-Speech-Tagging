@@ -1,0 +1,73 @@
+
+[Executed at: Sat Nov 30 18:21:00 PST 2019]
+
+test_hmm_1 forward function gets 1/1
+--
+test_hmm_1 backward function gets 1/1
+--
+test_hmm_1 sequence_prob function gets 0.5/0.5
+--
+test_hmm_1 posterior_prob function gets 1/1
+--
+test_hmm_1 likelihood_prob function gets 1/1
+--
+test_hmm_1 viterbi function gets 1.5/1.5
+--
+test_hmm_2 forward function gets 1/1
+--
+test_hmm_2 backward function gets 1/1
+--
+test_hmm_2 sequence_prob function gets 0.5/0.5
+--
+test_hmm_2 posterior_prob function gets 1/1
+--
+test_hmm_2 likelihood_prob function gets 1/1
+--
+test_hmm_2 viterbi function gets 1.5/1.5
+--
+test_hmm_3 forward function gets 1/1
+--
+test_hmm_3 backward function gets 1/1
+--
+test_hmm_3 sequence_prob function gets 0.5/0.5
+--
+test_hmm_3 posterior_prob function gets 1/1
+--
+test_hmm_3 likelihood_prob function gets 1/1
+--
+test_hmm_3 viterbi function gets 1.5/1.5
+--
+test_hmm_4 forward function gets 1/1
+--
+test_hmm_4 backward function gets 1/1
+--
+test_hmm_4 sequence_prob function gets 0.5/0.5
+--
+test_hmm_4 posterior_prob function gets 1/1
+--
+test_hmm_4 likelihood_prob function gets 1/1
+--
+test_hmm_4 viterbi function gets 1.5/1.5
+--
+test_hmm_5 forward function gets 1/1
+--
+test_hmm_5 backward function gets 1/1
+--
+test_hmm_5 sequence_prob function gets 0.5/0.5
+--
+test_hmm_5 posterior_prob function gets 1/1
+--
+test_hmm_5 likelihood_prob function gets 1/1
+--
+test_hmm_5 viterbi function gets 1.5/1.5
+--
+test_model_training model_training function gets 10/10
+--
+test_speech_tagging sentence_tagging function gets 10/10
+--
+...###...
+Total score for HMM part: 50/50
+--
+processing time 7.672176837921143
+
+----- Grading Finished, Please check your grading report above to see if you failed on any test -------
